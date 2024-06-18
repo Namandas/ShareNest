@@ -1,5 +1,7 @@
 # ShareNest README
 
+[Live Demo](https://sharenest.onrender.com)
+
 Welcome to **ShareNest** - a social media website where you can follow people, text the people you follow, update your profile, and upload posts that consist of images. This project is built using the MERN stack and integrates Cloudinary for image storage.
 
 ## Table of Contents
@@ -13,25 +15,26 @@ Welcome to **ShareNest** - a social media website where you can follow people, t
 
 ## Introduction
 
-SocialMediaClone is a full-stack web application designed to replicate the core functionalities of Twitter. Users can create accounts, follow other users, send direct messages, update their profiles, and upload image posts. The application is built with the MERN stack (MongoDB, Express, React, Node.js) and utilizes Cloudinary for efficient image management.
+ShareNest is a full-stack web application designed to replicate the core functionalities of Twitter. Users can create accounts, follow other users, send direct messages, update their profiles, and upload image posts. The application is built with the MERN stack (MongoDB, Express, React, Node.js) and utilizes Cloudinary for efficient image management.
 
 ## Features
 
 - **User Authentication**: Sign up and log in with secure authentication.
 - **Follow System**: Follow and unfollow other users to see their posts in your feed.
-- **Direct Messaging**: Send and receive messages from users you follow.
+- **Direct Messaging**: Send and receive messages from users you follow using Socket.io for real-time communication.
 - **Profile Management**: Update your profile information and avatar.
 - **Image Posts**: Upload and view posts containing images.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Modern UI**: Styled using Tailwind CSS with DaisyUI components.
 
 ## Technology Stack
 
-- **Frontend**: React.js
+- **Frontend**: React.js, Tailwind CSS, DaisyUI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Image Storage**: Cloudinary
 - **Authentication**: JWT (JSON Web Tokens)
-- **Styling**: CSS, Bootstrap
+- **Real-Time Communication**: Socket.io
 
 ## Setup and Installation
 
