@@ -1,6 +1,6 @@
 # ShareNest README
 
-[Live Demo](https://sharenest.onrender.com)
+[Live Demo](https://sharenest.onrender.com/)
 
 Welcome to **ShareNest** - a social media website where you can follow people, text the people you follow, update your profile, and upload posts that consist of images. This project is built using the MERN stack and integrates Cloudinary for image storage.
 
